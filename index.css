@@ -7,7 +7,7 @@ h1 {
 	font-weight: 900;
 }
 h2 {
-	color: black;
+	color: gray;
 	font-size: 15px;
 	font-family: Helvetica; 
 	font-weight: -200;
@@ -15,9 +15,10 @@ h2 {
 	text-align: center;
 }
 h3 {
-	font-size: 30px;
+	font-size: 15px;
 	font-family: Helvetica;
 	text-align: center;
+	letter-spacing: 5px
 
 
 }
