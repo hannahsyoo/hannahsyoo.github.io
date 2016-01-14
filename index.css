@@ -1,0 +1,23 @@
+h1 {
+	color: black;
+	font-family: Helvetica;
+	text-align: center;
+	font-size: 50px;
+	letter-spacing: 30px;
+	font-weight: 900;
+}
+h2 {
+	color: black;
+	font-size: 15px;
+	font-family: Helvetica; 
+	font-weight: -200;
+	font-style: normal;
+	text-align: center;
+}
+h3 {
+	font-size: 30px;
+	font-family: Helvetica;
+	text-align: center;
+
+
+}
